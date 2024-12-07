@@ -95,6 +95,9 @@ Finally, the results are visualized by comparing the actual and predicted values
 
 - **Accuracy**: The model successfully captures the trends and patterns in the time series data.
 - **Visualization**: The comparison of actual vs. predicted values shows how well the LSTM model performs in forecasting future stock prices.
+  
+  <img width="446" alt="image" src="https://github.com/user-attachments/assets/a113a6f1-210c-4f04-91d4-8e98257b35e2">
+
 
 ## Future Work
 
